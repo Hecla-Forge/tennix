@@ -5,9 +5,6 @@ Released by Hecla Technology Forge
 
 **Keywords:** `Visual Testing`, `AI Testing`, `Playwright`, `Test Automation`, `LLM`, `Vision AI`, `Gemini`, `Claude`, `TDD`, `Agent-Based Testing`, `CLI Tool`, `DevOps`, `CI/CD`, `E2E Testing`, `UI Automation`
 
----
-
-*(This is a placeholder for a workflow diagram - you will need to create and upload an image to your repository's assets)*
 
 ## How It Works
 
