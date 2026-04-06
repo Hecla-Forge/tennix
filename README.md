@@ -44,7 +44,7 @@ Tenixx requires Docker Desktop. It must be running in the background.
 
 ### 2. Download the `tenixx` Binary
 
-Download the latest pre-compiled binary for your OS from the **[GitHub Releases](https://github.com/slyfox1186/tenixx/releases)** page.
+Download the latest pre-compiled binary for your OS from the **[GitHub Releases](https://github.com/Hecla-Forge/tennix/releases/tag/V0.9.0)** page.
 
 Place the executable in a directory on your system's `PATH`.
 
